@@ -1,3 +1,3 @@
 # hello-world
 this is for practicing programming
-mellow
+I am Rishi and i study engineering at university of kent
